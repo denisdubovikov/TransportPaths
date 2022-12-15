@@ -4,6 +4,8 @@
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
 
 from random import randint
+import networkx as nx
+import matplotlib.pyplot as plt
 
 
 def print_hi(name):
