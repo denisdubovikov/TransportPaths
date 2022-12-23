@@ -6,6 +6,8 @@
 from random import randint
 import networkx as nx
 import matplotlib.pyplot as plt
+import scipy
+import numpy
 
 
 def print_hi(name):
